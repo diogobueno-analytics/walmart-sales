@@ -27,3 +27,5 @@ Este projeto possui 4 Sessões:
 - VS Code
 - Jupyter Notebook
 - GitHub Desktop (versionamento) 
+
+Peço por gentileza, que verifique o projeto completo, clicando no arquivo acima "walmart_analysis.ipnb".
