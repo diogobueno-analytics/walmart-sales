@@ -1,6 +1,6 @@
 ## Análise Exploratória de Dados (EDA) | Python
 
-Este projeto foi desenvolvido com foco para realização de estudos com Python e desenvolvimento do meu portfólio de análise de dados, demonstrando minhas habilidades em Limpeza e Análise Exploratória de Dados com Python e utilização de estatistica e entendimento de negócio para apoio na tomada de decisão.
+Este projeto foi desenvolvido com foco na realização de estudos com Python e desenvolvimento do meu portfólio de análise de dados, demonstrando minhas habilidades em Limpeza e Análise Exploratória de Dados com Python e utilização de estatistica e entendimento de negócio para apoio na tomada de decisão.
 
 Foi utilizado o dataset utilizado é o "Walmart Dataset", que contém dados históricos de vendas semanais de 45 lojas do Walmart entre 02/2010 e 11/2012. Sendo o foco principal, responder algumas perguntas de negócio:
 
