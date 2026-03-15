@@ -9,7 +9,7 @@ Foi utilizado o dataset "Walmart Dataset", que contém dados históricos de vend
 3. Semanas com feriados realmente geram vendas maiores do que semanas normais?
 <hr>
 
-![Walmart](https://superhiper.com.br/devlop/wp-content/uploads/2026/01/Divulgacao-Walmart.jpg)
+<img src="https://superhiper.com.br/devlop/wp-content/uploads/2026/01/Divulgacao-Walmart.jpgg" width="400"/>
 
 ### Projeto
 Este projeto possui 4 Sessões:
